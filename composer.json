@@ -1,0 +1,3 @@
+{
+  require: "veggiemeat/php-cometdocs": "dev-master"
+}
